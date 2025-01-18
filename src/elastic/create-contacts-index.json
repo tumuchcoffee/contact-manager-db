@@ -1,0 +1,34 @@
+PUT /contacts
+{
+  "mappings": {
+    "properties": {
+      "firstName": {
+        "type": "text"
+      },
+      "lastName": {
+        "type": "text"
+      },
+      "phone": {
+        "type": "long"
+      },
+      "address1": {
+        "type": "text"
+      },
+      "address2": {
+        "type": "text"
+      },
+      "city": {
+        "type": "text"
+      },
+      "state": {
+        "type": "keyword"
+      },
+      "zipCode": {
+        "type": "integer"
+      },
+      "email": {
+        "type": "keyword"
+      }
+    }
+  }
+}
