@@ -1,0 +1,11 @@
+{
+    "firstName": "Don",
+    "lastName": "Johnson",
+    "phone": 1111111111,
+    "address1": "100 Main St",
+    "address2": "Apt A",
+    "city": "Charlotte",
+    "state": "NC",
+    "zipCode": "28202",
+    "email": "don.johnson@gmail.com"
+  }
